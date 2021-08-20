@@ -1,1 +1,1 @@
-Cursos e aprendizados que tive na Alura
+Courses and learnings I had at alura
