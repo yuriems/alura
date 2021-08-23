@@ -1,7 +1,7 @@
 # alura
 Courses and learnings I had at Alura
 
-👨‍🎓 Formação Iniciante em Programação (atualização):
+👨‍🎓 Formação Iniciante em Programação (atualização):  
   ◽ Jogos clássicos parte 1: Iniciando no Javascript com Pong
   ◽ Jogos clássicos parte 2: laços e listas com Javascript
   ◽ Arquitetura de computadores: Por trás de como seu programa funciona
